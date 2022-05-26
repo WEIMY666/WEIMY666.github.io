@@ -12,7 +12,7 @@ description: "分享在Sustech（塘朗山男子职业技术学院）的摸鱼�
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/WEIMY666/WEIMY666.github.io/blob/master/R-C.jpg
+#avatar: https://github.com/WEIMY666/WEIMY666.github.io/blob/master/R-C.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 #favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
@@ -21,7 +21,7 @@ avatar: https://github.com/WEIMY666/WEIMY666.github.io/blob/master/R-C.jpg
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: /
+    url: https://github.com/WEIMY666
   - name: 关于
     url: /about
   - name: 归档
