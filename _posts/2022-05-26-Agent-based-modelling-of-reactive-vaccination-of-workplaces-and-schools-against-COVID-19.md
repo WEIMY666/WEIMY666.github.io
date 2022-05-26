@@ -29,7 +29,7 @@ author: minty
 
 
 
-![54901d22cb04a75e5a73d225f05bbaf](C:\Users\weimy\AppData\Local\Temp\WeChat Files\54901d22cb04a75e5a73d225f05bbaf.png)
+![54901d22cb04a75e5a73d225f05bbaf](https://github.com/WEIMY666/WEIMY666.github.io/blob/master/images/2019-11-22-create_blog_with_github_pages/54901d22cb04a75e5a73d225f05bbaf.png)
 
 
 
@@ -37,7 +37,7 @@ author: minty
 
 这部分比较重要，在国内没使用过，可以分析一波作为政策之一。这部分需详细解释，慢慢来。
 
-![e7ab4320a70d3d2cbec903ad09d2a57](C:\Users\weimy\AppData\Local\Temp\WeChat Files\e7ab4320a70d3d2cbec903ad09d2a57.png)
+![e7ab4320a70d3d2cbec903ad09d2a57](https://github.com/WEIMY666/WEIMY666.github.io/blob/master/images/2019-11-22-create_blog_with_github_pages/e7ab4320a70d3d2cbec903ad09d2a57.png)
 
 ## 致谢
 
